@@ -1,0 +1,13 @@
+{
+  "name": "trabalho-poo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
